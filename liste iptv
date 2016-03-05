@@ -22,6 +22,8 @@ http://evolive-tv.com:8000/live/genio/genio/51.ts
 http://evolive-tv.com:8000/live/genio/genio/261.ts
 #EXTINF:-1,W9
 http://evolive-tv.com:8000/live/genio/genio/3.ts
+#EXTINF:-1,D8
+http://62.65.140.153:80/session/290bc8c8-e306-11e5-bffa-005056bc49ac/nvnv5a/2/2018/2290000/index.m3u8
 #EXTINF:-1,D17
 http://evolive-tv.com:8000/live/genio/genio/8.ts
 #EXTINF:-1,teva
