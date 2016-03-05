@@ -70,6 +70,10 @@ http://evolive-tv.com:8000/live/genio/genio/145.ts
 http://evolive-tv.com:8000/live/genio/genio/146.ts
 #EXTINF:-1,IT-PRIMAFILA 5
 http://evolive-tv.com:8000/live/genio/genio/147.ts
+#EXTINF:-1,IT-RAI SPORT 1
+http://evolive-tv.com:8000/live/genio/genio/285.ts
+#EXTINF:-1,IT-RAI 5
+http://evolive-tv.com:8000/live/genio/genio/284.ts
 
 #EXTINF:-1,[COLOR green]--- EUROPE + ARABIC ---[/COLOR]
 http://0.8.6.0:1024177
@@ -245,6 +249,9 @@ http://evolive-tv.com:8000/live/genio/genio/87.ts
 http://evolive-tv.com:8000/live/genio/genio/97.ts
 #EXTINF:-1,Discovery
 http://evolive-tv.com:8000/live/genio/genio/21.ts
+
+#EXTINF:-1,[COLOR green]--- SPAIN ---[/COLOR]
+http://0.8.6.0:1024177
 #EXTINF:-1,SP-TNT
 http://evolive-tv.com:8000/live/genio/genio/268.ts
 #EXTINF:-1,SP-Syfy
@@ -291,6 +298,29 @@ http://evolive-tv.com:8000/live/genio/genio/159.ts
 http://evolive-tv.com:8000/live/genio/genio/160.ts
 #EXTINF:-1,SP-ARENA SPORT 5
 http://evolive-tv.com:8000/live/genio/genio/161.ts
+#EXTINF:-1,SP-Nick Junior
+http://evolive-tv.com:8000/live/genio/genio/282.ts
+#EXTINF:-1,SP-Hollywood
+http://evolive-tv.com:8000/live/genio/genio/269.ts
+#EXTINF:-1,SP-FOX Life
+http://evolive-tv.com:8000/live/genio/genio/267.ts
+#EXTINF:-1,SP-Cosmo
+http://evolive-tv.com:8000/live/genio/genio/271.ts
+#EXTINF:-1,SP-Comedy Central
+http://evolive-tv.com:8000/live/genio/genio/272.ts
+#EXTINF:-1,SP-Canal+ Toros
+http://evolive-tv.com:8000/live/genio/genio/276.ts
+#EXTINF:-1,SP-Canal+
+http://evolive-tv.com:8000/live/genio/genio/166.ts
+#EXTINF:-1,SP-Canal+ Xtra
+http://evolive-tv.com:8000/live/genio/genio/265.ts
+#EXTINF:-1,SP-Canal+ Liga 2 HD
+http://evolive-tv.com:8000/live/genio/genio/275.ts
+#EXTINF:-1,SP-Canal+ Deportes 2 HD
+http://evolive-tv.com:8000/live/genio/genio/273.ts
+
+#EXTINF:-1,[COLOR green]--- PORTOGAL ---[/COLOR]
+http://0.8.6.0:1024177
 #EXTINF:-1,PT: TVCine 4 HD
 http://evolive-tv.com:8000/live/genio/genio/303.ts
 #EXTINF:-1,PT: TVCine 3 HD
@@ -305,7 +335,7 @@ http://evolive-tv.com:8000/live/genio/genio/290.ts
 http://evolive-tv.com:8000/live/genio/genio/289.ts
 #EXTINF:-1,PT: SyFu
 http://evolive-tv.com:8000/live/genio/genio/288.ts
-#EXTINF:-1,PT: By tutorial-iptv-xbmc.blogspot.com SportTV 5
+#EXTINF:-1,PT: SportTV 5
 http://evolive-tv.com:8000/live/genio/genio/295.ts
 #EXTINF:-1,PT: SportTV 4
 http://evolive-tv.com:8000/live/genio/genio/294.ts
@@ -323,32 +353,9 @@ http://evolive-tv.com:8000/live/genio/genio/299.ts
 http://evolive-tv.com:8000/live/genio/genio/296.ts
 #EXTINF:-1,SYFY_DE
 http://evolive-tv.com:8000/live/genio/genio/175.ts
-#EXTINF:-1,SP-Discovery MAX
-http://evolive-tv.com:8000/live/genio/genio/283.ts
-#EXTINF:-1,IT-RAI SPORT 1
-http://evolive-tv.com:8000/live/genio/genio/285.ts
-#EXTINF:-1,SP-Nick Junior
-http://evolive-tv.com:8000/live/genio/genio/282.ts
-#EXTINF:-1,SP-Hollywood
-http://evolive-tv.com:8000/live/genio/genio/269.ts
-#EXTINF:-1,IT-RAI 5
-http://evolive-tv.com:8000/live/genio/genio/284.ts
-#EXTINF:-1,SP-FOX Life
-http://evolive-tv.com:8000/live/genio/genio/267.ts
-#EXTINF:-1,SP-Cosmo
-http://evolive-tv.com:8000/live/genio/genio/271.ts
-#EXTINF:-1,SP-Comedy Central
-http://evolive-tv.com:8000/live/genio/genio/272.ts
-#EXTINF:-1,SP-Canal+ Toros
-http://evolive-tv.com:8000/live/genio/genio/276.ts
-#EXTINF:-1,SP-Canal+
-http://evolive-tv.com:8000/live/genio/genio/166.ts
-#EXTINF:-1,SP-Canal+ Xtra
-http://evolive-tv.com:8000/live/genio/genio/265.ts
-#EXTINF:-1,SP-Canal+ Liga 2 HD
-http://evolive-tv.com:8000/live/genio/genio/275.ts
-#EXTINF:-1,SP-Canal+ Deportes 2 HD
-http://evolive-tv.com:8000/live/genio/genio/273.ts
+
+#EXTINF:-1,[COLOR green]--- UK ---[/COLOR]
+http://0.8.6.0:1024177
 #EXTINF:-1,Sky Sport 1
 http://evolive-tv.com:8000/live/genio/genio/70.ts
 #EXTINF:-1,Sky Sport 2
@@ -365,6 +372,9 @@ http://evolive-tv.com:8000/live/genio/genio/211.ts
 http://evolive-tv.com:8000/live/genio/genio/210.ts
 #EXTINF:-1,SKY-UK MOVIES ACTION
 http://evolive-tv.com:8000/live/genio/genio/178.ts
+
+#EXTINF:-1,[COLOR green]--- Netherland ---[/COLOR]
+http://0.8.6.0:1024177
 #EXTINF:-1,NL-FILM1 PREMIERE HD
 http://evolive-tv.com:8000/live/genio/genio/171.ts
 #EXTINF:-1,NL-FOX SPORTS 1 EREDIVISIE
@@ -375,6 +385,9 @@ http://evolive-tv.com:8000/live/genio/genio/173.ts
 http://evolive-tv.com:8000/live/genio/genio/172.ts
 #EXTINF:-1,NL-HBO 3
 http://evolive-tv.com:8000/live/genio/genio/170.ts
+
+#EXTINF:-1,[COLOR green]--- ARABIC ---[/COLOR]
+http://0.8.6.0:1024177
 #EXTINF:-1,TUNISIA 1
 http://evolive-tv.com:8000/live/genio/genio/9.ts
 #EXTINF:-1,TUNISIA 2
