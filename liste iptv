@@ -260,26 +260,10 @@ http://evolive-tv.com:8000/live/genio/genio/47.ts
 http://evolive-tv.com:8000/live/genio/genio/45.ts
 #EXTINF:-1,MBC 4
 http://evolive-tv.com:8000/live/genio/genio/44.ts
-#EXTINF:-1,MBC 3
-http://evolive-tv.com:8000/live/genio/genio/43.ts
 #EXTINF:-1,MBC 2
 http://evolive-tv.com:8000/live/genio/genio/42.ts
 #EXTINF:-1,MBC
 http://evolive-tv.com:8000/live/genio/genio/41.ts
-#EXTINF:-1,Iqraa
-http://evolive-tv.com:8000/live/genio/genio/240.ts
-#EXTINF:-1,AL_RESALAH
-http://evolive-tv.com:8000/live/genio/genio/250.ts
-#EXTINF:-1,Toyor_Al_Janah
-http://evolive-tv.com:8000/live/genio/genio/217.ts
-#EXTINF:-1,TAHA
-http://evolive-tv.com:8000/live/genio/genio/218.ts
-#EXTINF:-1,SPACETOON
-http://evolive-tv.com:8000/live/genio/genio/219.ts
-#EXTINF:-1,KARAMEESH
-http://evolive-tv.com:8000/live/genio/genio/239.ts
-#EXTINF:-1,ALquds
-http://evolive-tv.com:8000/live/genio/genio/252.ts
 #EXTINF:-1,Rotana_Aflam
 http://evolive-tv.com:8000/live/genio/genio/221.ts
 #EXTINF:-1,RotanaKhaliji
@@ -298,18 +282,12 @@ http://evolive-tv.com:8000/live/genio/genio/226.ts
 http://evolive-tv.com:8000/live/genio/genio/227.ts
 #EXTINF:-1,Noor Jordan
 http://evolive-tv.com:8000/live/genio/genio/228.ts
-#EXTINF:-1,NILE_SPORT
-http://evolive-tv.com:8000/live/genio/genio/229.ts
-#EXTINF:-1,NILE_NEWS
-http://evolive-tv.com:8000/live/genio/genio/230.ts
 #EXTINF:-1,NILE_LIFE
 http://evolive-tv.com:8000/live/genio/genio/231.ts
 #EXTINF:-1,NILE_FAMILY
 http://evolive-tv.com:8000/live/genio/genio/232.ts
 #EXTINF:-1,NILE_DRAMA
 http://evolive-tv.com:8000/live/genio/genio/233.ts
-#EXTINF:-1,NILE_CULTURE
-http://evolive-tv.com:8000/live/genio/genio/234.ts
 #EXTINF:-1,Nile Comedy
 http://evolive-tv.com:8000/live/genio/genio/235.ts
 #EXTINF:-1,NILE_CINEMA
@@ -322,24 +300,42 @@ http://evolive-tv.com:8000/live/genio/genio/244.ts
 http://evolive-tv.com:8000/live/genio/genio/242.ts
 #EXTINF:-1,DUBAI_DRAMA_HD
 http://evolive-tv.com:8000/live/genio/genio/243.ts
-#EXTINF:-1,DUBAI_SPORT_1_HD
-http://evolive-tv.com:8000/live/genio/genio/241.ts
 #EXTINF:-1,ABOU_DHABI_1
 http://evolive-tv.com:8000/live/genio/genio/258.ts
 #EXTINF:-1,ADdrama
 http://evolive-tv.com:8000/live/genio/genio/257.ts
-#EXTINF:-1,ADsport2
-http://evolive-tv.com:8000/live/genio/genio/256.ts
 #EXTINF:-1,AD_Al_EMARAT
 http://evolive-tv.com:8000/live/genio/genio/255.ts
-#EXTINF:-1,AD_SPORT_1
-http://evolive-tv.com:8000/live/genio/genio/254.ts
 #EXTINF:-1,Al jazaeiria
 http://evolive-tv.com:8000/live/genio/genio/198.ts
-#EXTINF:-1,TV TAMAZIGHT
-http://evolive-tv.com:8000/live/genio/genio/197.ts
+#EXTINF:-1,Iqraa
+http://evolive-tv.com:8000/live/genio/genio/240.ts
+#EXTINF:-1,AL_RESALAH
+http://evolive-tv.com:8000/live/genio/genio/250.ts
+
+#EXTINF:-1,[COLOR green]--- ARABIC KIDS---[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,MBC 3
+http://evolive-tv.com:8000/live/genio/genio/43.ts
+#EXTINF:-1,Toyor_Al_Janah
+http://evolive-tv.com:8000/live/genio/genio/217.ts
+#EXTINF:-1,TAHA
+http://evolive-tv.com:8000/live/genio/genio/218.ts
+#EXTINF:-1,SPACETOON
+http://evolive-tv.com:8000/live/genio/genio/219.ts
+#EXTINF:-1,KARAMEESH
+http://evolive-tv.com:8000/live/genio/genio/239.ts
+
+#EXTINF:-1,[COLOR green]--- ARABIC SPORT ---[/COLOR]
+http://0.8.6.0:1024177
 #EXTINF:-1,Alkass 2 HD
 http://evolive-tv.com:8000/live/genio/genio/305.ts
+#EXTINF:-1,DUBAI_SPORT_1_HD
+http://evolive-tv.com:8000/live/genio/genio/241.ts
+#EXTINF:-1,AD Sport 1
+http://evolive-tv.com:8000/live/genio/genio/254.ts
+#EXTINF:-1,AD Sport 2
+http://evolive-tv.com:8000/live/genio/genio/256.ts
 #EXTINF:-1,BEINSPORT 1
 http://evolive-tv.com:8000/live/genio/genio/207.ts
 #EXTINF:-1,BEINSPORT 2
