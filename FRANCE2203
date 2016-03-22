@@ -1,0 +1,220 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]By ZABI ATEF[/B][/I][/COLOR]
+http://0.1.5.0:1224
+
+#EXTINF:-1,[COLOR green]--- FRANCE TV ---[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,FR - TF1 HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/119.m3u8
+#EXTINF:-1,FR - M6 HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/444.m3u8
+#EXTINF:-1,FR - CANAL HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/207.m3u8
+#EXTINF:-1,FR - CANAL DECALE HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/210.m3u8
+#EXTINF:-1,FR - FRANCE 2 HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/172.m3u8
+#EXTINF:-1,FR - FRANCE 3
+http://xtream.iptv-streamer.com:8000/live/2222/2222/168.m3u8
+#EXTINF:-1,FR - FRANCE 4
+http://xtream.iptv-streamer.com:8000/live/2222/2222/171.m3u8
+#EXTINF:-1,FR - FRANCE 5
+http://xtream.iptv-streamer.com:8000/live/2222/2222/170.m3u8
+#EXTINF:-1,FR - FRANCE O
+http://xtream.iptv-streamer.com:8000/live/2222/2222/169.m3u8
+#EXTINF:-1,FR - ARTE FRANCE
+http://xtream.iptv-streamer.com:8000/live/2222/2222/396.m3u8
+#EXTINF:-1,FR - TV5
+http://xtream.iptv-streamer.com:8000/live/2222/2222/113.m3u8
+#EXTINF:-1,FR - W9
+http://xtream.iptv-streamer.com:8000/live/2222/2222/109.m3u8
+#EXTINF:-1,FR - D8
+http://xtream.iptv-streamer.com:8000/live/2222/2222/187.m3u8
+#EXTINF:-1,FR - D17
+http://xtream.iptv-streamer.com:8000/live/2222/2222/188.m3u8
+#EXTINF:-1,FR - PARIS PREMIERE
+http://xtream.iptv-streamer.com:8000/live/2222/2222/138.m3u8
+#EXTINF:-1,FR - COMEDIE
+http://xtream.iptv-streamer.com:8000/live/2222/2222/190.m3u8
+#EXTINF:-1,FR - E! ENTERTAINMENT
+http://xtream.iptv-streamer.com:8000/live/2222/2222/180.m3u8
+#EXTINF:-1,FR - June
+http://xtream.iptv-streamer.com:8000/live/2222/2222/162.m3u8
+#EXTINF:-1,FR - TEVA
+http://xtream.iptv-streamer.com:8000/live/2222/2222/120.m3u8
+#EXTINF:-1,FR - NRJ 12
+http://xtream.iptv-streamer.com:8000/live/2222/2222/810.m3u8
+#EXTINF:-1,FR - TMC
+http://xtream.iptv-streamer.com:8000/live/2222/2222/117.m3u8
+#EXTINF:-1,FR - TV BREIZH
+http://xtream.iptv-streamer.com:8000/live/2222/2222/114.m3u8
+#EXTINF:-1,FR - CANAL CINEMA HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/211.m3u8
+#EXTINF:-1,FR - CANAL FAMILY HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/209.m3u8
+#EXTINF:-1,FR - CINE PREMIER HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/192.m3u8
+#EXTINF:-1,FR - CINE FRISSON HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/195.m3u8
+#EXTINF:-1,FR - OCS MAX HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/140.m3u8
+#EXTINF:-1,FR - OCS CHOC HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/142.m3u8
+#EXTINF:-1,FR - OCS GEANT HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/141.m3u8
+#EXTINF:-1,FR - OCS City HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1506.m3u8
+#EXTINF:-1,Cine+ Emotion HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/724.m3u8
+#EXTINF:-1,FR - CINE EMOTION
+http://xtream.iptv-streamer.com:8000/live/2222/2222/199.m3u8
+#EXTINF:-1,FR - Cine+ Famiz HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/725.m3u8
+#EXTINF:-1,FR - CINE FAMIZ
+http://xtream.iptv-streamer.com:8000/live/2222/2222/198.m3u8
+#EXTINF:-1,FR - Cine+ Classic HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/726.m3u8
+#EXTINF:-1,FR - CINE CLASSIC
+http://xtream.iptv-streamer.com:8000/live/2222/2222/201.m3u8
+#EXTINF:-1,FR - Cine Polar
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1507.m3u8
+#EXTINF:-1,FR - Cine FX
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1508.m3u8
+#EXTINF:-1,FR - TCM
+http://xtream.iptv-streamer.com:8000/live/2222/2222/123.m3u8
+#EXTINF:-1,FR - ACTION
+http://xtream.iptv-streamer.com:8000/live/2222/2222/243.m3u8
+#EXTINF:-1,FR - CANAL SERIE HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/206.m3u8
+#EXTINF:-1,FR - SERIE CLUB
+http://xtream.iptv-streamer.com:8000/live/2222/2222/127.m3u8
+#EXTINF:-1,FR - 13 EME RUE
+http://xtream.iptv-streamer.com:8000/live/2222/2222/249.m3u8
+#EXTINF:-1,FR - SYFY
+http://xtream.iptv-streamer.com:8000/live/2222/2222/125.m3u8
+#EXTINF:-1,FR - NT1
+http://xtream.iptv-streamer.com:8000/live/2222/2222/143.m3u8
+#EXTINF:-1,FR - RTL 9
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1492.m3u8
+#EXTINF:-1,FR - CANAL SPORT HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/205.m3u8
+#EXTINF:-1,FR - BEIN SPORT 1 HD /FR
+http://xtream.iptv-streamer.com:8000/live/2222/2222/233.m3u8
+#EXTINF:-1,FR - BEIN SPORTS 2 HD FR
+http://xtream.iptv-streamer.com:8000/live/2222/2222/226.m3u8
+#EXTINF:-1,FR - BEIN SPORTS 3 HD / FR
+http://xtream.iptv-streamer.com:8000/live/2222/2222/225.m3u8
+#EXTINF:-1,FR - INFOSPORT
+http://xtream.iptv-streamer.com:8000/live/2222/2222/164.m3u8
+#EXTINF:-1,FR - EUROSPORT
+http://xtream.iptv-streamer.com:8000/live/2222/2222/174.m3u8
+#EXTINF:-1,FR - EUROSPORT 2
+http://xtream.iptv-streamer.com:8000/live/2222/2222/175.m3u8
+#EXTINF:-1,FR - MA CHAINE SPORT
+http://xtream.iptv-streamer.com:8000/live/2222/2222/154.m3u8
+#EXTINF:-1,FR - BEIN SPORT MAX 4
+http://xtream.iptv-streamer.com:8000/live/2222/2222/231.m3u8
+#EXTINF:-1,FR - BEIN SPORT MAX 5
+http://xtream.iptv-streamer.com:8000/live/2222/2222/230.m3u8
+#EXTINF:-1,FR - BEIN SPORT MAX6
+http://xtream.iptv-streamer.com:8000/live/2222/2222/229.m3u8
+#EXTINF:-1,FR - BEIN SPORT MAX7
+http://xtream.iptv-streamer.com:8000/live/2222/2222/228.m3u8
+#EXTINF:-1,FR - BEIN SPORT MAX8
+http://xtream.iptv-streamer.com:8000/live/2222/2222/227.m3u8
+#EXTINF:-1,FR - Sport 365 HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1486.m3u8
+#EXTINF:-1,FR - KOMBAT Sport HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1489.m3u8
+#EXTINF:-1,FR - GOLF HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1500.m3u8
+#EXTINF:-1,FR - FOOT 24/24
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1502.m3u8
+#EXTINF:-1,FR - EQUIPE 21
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1503.m3u8
+#EXTINF:-1,FR - Discovery HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/700.m3u8
+#EXTINF:-1,FR - DISCOVERY SCIENCE HD FR
+http://xtream.iptv-streamer.com:8000/live/2222/2222/186.m3u8
+#EXTINF:-1,FR - NATGEO WILD HD FRANCE
+http://xtream.iptv-streamer.com:8000/live/2222/2222/146.m3u8
+#EXTINF:-1,FR - USHUAI HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/112.m3u8
+#EXTINF:-1,FR - VOYAGE HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/110.m3u8
+#EXTINF:-1,FR - NATIONAL GEO
+http://xtream.iptv-streamer.com:8000/live/2222/2222/145.m3u8
+#EXTINF:-1,FR - PLANETE
+http://xtream.iptv-streamer.com:8000/live/2222/2222/135.m3u8
+#EXTINF:-1,FR - PLANETE AE
+http://xtream.iptv-streamer.com:8000/live/2222/2222/136.m3u8
+#EXTINF:-1,FR - PLANETE CI
+http://xtream.iptv-streamer.com:8000/live/2222/2222/134.m3u8
+#EXTINF:-1,FR - HISTOIRE
+http://xtream.iptv-streamer.com:8000/live/2222/2222/166.m3u8
+#EXTINF:-1,FR - CHASSE ET PECHE
+http://xtream.iptv-streamer.com:8000/live/2222/2222/202.m3u8
+#EXTINF:-1,FR - ANIMAUX
+http://xtream.iptv-streamer.com:8000/live/2222/2222/235.m3u8
+#EXTINF:-1,FR - RMC Decouverte
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1493.m3u8
+#EXTINF:-1,FR - DISNEY CHANNEL
+http://xtream.iptv-streamer.com:8000/live/2222/2222/184.m3u8
+#EXTINF:-1,FR - DISNEY JUNIOR FR
+http://xtream.iptv-streamer.com:8000/live/2222/2222/182.m3u8
+#EXTINF:-1,FR - TELETOON
+http://xtream.iptv-streamer.com:8000/live/2222/2222/121.m3u8
+#EXTINF:-1,FR - TIJI
+http://xtream.iptv-streamer.com:8000/live/2222/2222/118.m3u8
+#EXTINF:-1,FR - PIWI
+http://xtream.iptv-streamer.com:8000/live/2222/2222/137.m3u8
+#EXTINF:-1,FR - BOING
+http://xtream.iptv-streamer.com:8000/live/2222/2222/215.m3u8
+#EXTINF:-1,FR - CANAL J
+http://xtream.iptv-streamer.com:8000/live/2222/2222/204.m3u8
+#EXTINF:-1,FR - BOOMERANG
+http://xtream.iptv-streamer.com:8000/live/2222/2222/214.m3u8
+#EXTINF:-1,FR - Disney XD HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1505.m3u8
+#EXTINF:-1,FR - MANGA
+http://xtream.iptv-streamer.com:8000/live/2222/2222/152.m3u8
+#EXTINF:-1,FR - CARTOON NETWORK
+http://xtream.iptv-streamer.com:8000/live/2222/2222/203.m3u8
+#EXTINF:-1,FR - Disney Cinema HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/797.m3u8
+#EXTINF:-1,FR - nicklodeon
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1496.m3u8
+#EXTINF:-1,https://iptv.zone/en FR - Nick4Teens
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1497.m3u8
+#EXTINF:-1,FR - Nick Junior
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1498.m3u8
+#EXTINF:-1,FR - Gulli HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1499.m3u8
+#EXTINF:-1,FR - GameOne
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1501.m3u8
+#EXTINF:-1,FR - DISNEY CINEMAGIC
+http://xtream.iptv-streamer.com:8000/live/2222/2222/183.m3u8
+#EXTINF:-1,FR - GULLI
+http://xtream.iptv-streamer.com:8000/live/2222/2222/167.m3u8
+#EXTINF:-1,FR - EuroNews FR
+http://xtream.iptv-streamer.com:8000/live/2222/2222/739.m3u8
+#EXTINF:-1,FR - ITELE
+http://xtream.iptv-streamer.com:8000/live/2222/2222/163.m3u8
+#EXTINF:-1,FR - BFM TV
+http://xtream.iptv-streamer.com:8000/live/2222/2222/216.m3u8
+#EXTINF:-1,FR - Escale
+http://xtream.iptv-streamer.com:8000/live/2222/2222/108.m3u8
+#EXTINF:-1,FR - ENCYCLO
+http://xtream.iptv-streamer.com:8000/live/2222/2222/178.m3u8
+#EXTINF:-1,FR - omtv
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1494.m3u8
+#EXTINF:-1,FR - Nollywood HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1495.m3u8
+#EXTINF:-1,FR - MCS Extreme HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1488.m3u8
+#EXTINF:-1,FR - LCI HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1487.m3u8
+#EXTINF:-1,FR - Equidia live HD
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1504.m3u8
+#EXTINF:-1,FR - AB1
+http://xtream.iptv-streamer.com:8000/live/2222/2222/1509.m3u8
