@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,Bein Sport HD1
+http://5.196.86.93:8000/live/1/1/127.m3u8
+#EXTINF:-1,Bein Sport HD2
+http://5.196.86.93:8000/live/1/1/128.m3u8
+#EXTINF:-1,Bein Sport HD3
+http://5.196.86.93:8000/live/1/1/129.m3u8
+#EXTINF:-1,Bein Sport HD4
+http://5.196.86.93:8000/live/1/1/130.m3u8
+#EXTINF:-1,Bein Sport HD5
+http://5.196.86.93:8000/live/1/1/132.m3u8
+#EXTINF:-1,Bein Sport HD6
+http://5.196.86.93:8000/live/1/1/133.m3u8
+#EXTINF:-1,Bein Sport HD7
+http://5.196.86.93:8000/live/1/1/134.m3u8
+#EXTINF:-1,Bein Sport HD8
+http://5.196.86.93:8000/live/1/1/135.m3u8
+#EXTINF:-1,Bein Sport HD9
+http://5.196.86.93:8000/live/1/1/186.m3u8
+#EXTINF:-1,Bein Sport HD10
+http://5.196.86.93:8000/live/1/1/187.m3u8
+#EXTINF:-1,Bein Sport HD11
+http://5.196.86.93:8000/live/1/1/188.m3u8
+#EXTINF:-1,Bein Sport HD12
+http://5.196.86.93:8000/live/1/1/189.m3u8
+#EXTINF:-1,Bein Sport HD13
+http://5.196.86.93:8000/live/1/1/1694.m3u8
+#EXTINF:-1,Bein Movies HD3
+http://5.196.86.93:8000/live/1/1/2151.m3u8
+#EXTINF:-1,bein Sport SD1
+http://5.196.86.93:8000/live/1/1/1913.m3u8
+#EXTINF:-1,Bein Sport SD2
+http://5.196.86.93:8000/live/1/1/1914.m3u8
+#EXTINF:-1,Bein Sport SD3
+http://5.196.86.93:8000/live/1/1/1915.m3u8
+#EXTINF:-1,Bein Sport SD4
+http://5.196.86.93:8000/live/1/1/1916.m3u8
+#EXTINF:-1,Bein Sport SD5
+http://5.196.86.93:8000/live/1/1/1917.m3u8
+#EXTINF:-1,Bein Sport SD6
+http://5.196.86.93:8000/live/1/1/1918.m3u8
+#EXTINF:-1,Bein Sport SD7
+http://5.196.86.93:8000/live/1/1/1919.m3u8
+#EXTINF:-1,Bein Sport SD8
+http://5.196.86.93:8000/live/1/1/1920.m3u8
+#EXTINF:-1,Bein Sport SD9
+http://5.196.86.93:8000/live/1/1/1921.m3u8
+#EXTINF:-1,Bein Sport SD10
+http://5.196.86.93:8000/live/1/1/1922.m3u8
+#EXTINF:-1,Bein Sport SD11
+http://5.196.86.93:8000/live/1/1/1923.m3u8
+#EXTINF:-1,Bein Sport SD12
+http://5.196.86.93:8000/live/1/1/1924.m3u8
