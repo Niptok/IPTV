@@ -1,5 +1,4 @@
 #EXTM3U
-http://iptv.alphacs.tv:8080/live/niptok/220875/7238.ts
 #EXTINF:0,FR: TV5 MONDE HD
 http://iptv.alphacs.tv:8080/live/niptok/220875/4039.ts
 #EXTINF:0,FR: SERIE CLUB
