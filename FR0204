@@ -1,129 +1,39 @@
 #EXTM3U
-#EXTINF:0,FR: TV5 MONDE HD
-http://iptv.alphacs.tv:8080/live/niptok/220875/4039.ts
-#EXTINF:0,FR: SERIE CLUB
-http://iptv.alphacs.tv:8080/live/niptok/220875/4044.ts
-#EXTINF:0,FR: PLANETE +
-http://iptv.alphacs.tv:8080/live/niptok/220875/4048.ts
-#EXTINF:0,FR: PLANETE + CI
-http://iptv.alphacs.tv:8080/live/niptok/220875/4046.ts
-#EXTINF:0,FR: DISCOVERY HD
-http://iptv.alphacs.tv:8080/live/niptok/220875/4051.ts
-#EXTINF:0,FR: NATIONAL GEO CHANNEL
-http://iptv.alphacs.tv:8080/live/niptok/220875/4050.ts
-#EXTINF:0,FR: Ma chaine Sports
-http://iptv.alphacs.tv:8080/live/niptok/220875/4077.ts
-#EXTINF:0,FR: M6 MUSIC
-http://iptv.alphacs.tv:8080/live/niptok/220875/4053.ts
-#EXTINF:0,FR: INFOSPORT
-http://iptv.alphacs.tv:8080/live/niptok/220875/4055.ts
-#EXTINF:0,FR: FRANCE 24
-http://iptv.alphacs.tv:8080/live/niptok/220875/4058.ts
-#EXTINF:0,FR: CINE FX
-http://iptv.alphacs.tv:8080/live/niptok/220875/4063.ts
-#EXTINF:0,FR: CINE CLASSIC
-http://iptv.alphacs.tv:8080/live/niptok/220875/4064.ts
-#EXTINF:0,FR: CANAL J
-http://iptv.alphacs.tv:8080/live/niptok/220875/4067.ts
-#EXTINF:0,FR: CANAL   FRISSON
-http://iptv.alphacs.tv:8080/live/niptok/220875/4068.ts
-#EXTINF:0,FR: CANAL   FAMALY
-http://iptv.alphacs.tv:8080/live/niptok/220875/4069.ts
-#EXTINF:0,FR: CANAL   EMOTION
-http://iptv.alphacs.tv:8080/live/niptok/220875/4070.ts
-#EXTINF:0,FR: CANAL   DECALE
-http://iptv.alphacs.tv:8080/live/niptok/220875/4071.ts
-#EXTINF:0,FR: CANAL   CLASSIC
-http://iptv.alphacs.tv:8080/live/niptok/220875/4072.ts
-#EXTINF:0,FR: CANAL   CINEMA
-http://iptv.alphacs.tv:8080/live/niptok/220875/4073.ts
-#EXTINF:0,FR: Comedie
-http://iptv.alphacs.tv:8080/live/niptok/220875/1665.ts
-#EXTINF:0,FR: ACTION
-http://iptv.alphacs.tv:8080/live/niptok/220875/4090.ts
-#EXTINF:0,FR: Canal   Cinema France
-http://iptv.alphacs.tv:8080/live/niptok/220875/1669.ts
-#EXTINF:0,FR: BOING
-http://iptv.alphacs.tv:8080/live/niptok/220875/4075.ts
-#EXTINF:0,FR: BFM TV
-http://iptv.alphacs.tv:8080/live/niptok/220875/4076.ts
-#EXTINF:0,FR: ARTE HD
-http://iptv.alphacs.tv:8080/live/niptok/220875/1680.ts
-#EXTINF:0,FR: ARTE
-http://iptv.alphacs.tv:8080/live/niptok/220875/4088.ts
-#EXTINF:0,FR: ANIMAUX
-http://iptv.alphacs.tv:8080/live/niptok/220875/4089.ts
-#EXTINF:0,FR: A LA CARTE 5
-http://iptv.alphacs.tv:8080/live/niptok/220875/4091.ts
-#EXTINF:0,FR: A LA CARTE 4
-http://iptv.alphacs.tv:8080/live/niptok/220875/4092.ts
-#EXTINF:0,FR: A LA CARTE 3
-http://iptv.alphacs.tv:8080/live/niptok/220875/4093.ts
-#EXTINF:0,FR: A LA CARTE 2
-http://iptv.alphacs.tv:8080/live/niptok/220875/4094.ts
-#EXTINF:0,FR: A LA CARTE 1
-http://iptv.alphacs.tv:8080/live/niptok/220875/4095.ts
-#EXTINF:0,FR: W9
-http://iptv.alphacs.tv:8080/live/niptok/220875/1647.ts
-#EXTINF:0,FR: TMC
-http://iptv.alphacs.tv:8080/live/niptok/220875/1648.ts
-#EXTINF:0,FR: TF 1
-http://iptv.alphacs.tv:8080/live/niptok/220875/1649.ts
-#EXTINF:0,FR: Public Senat
-http://iptv.alphacs.tv:8080/live/niptok/220875/1650.ts
-#EXTINF:0,FR: Piwi
-http://iptv.alphacs.tv:8080/live/niptok/220875/1651.ts
-#EXTINF:0,FR: NRJ 12
-http://iptv.alphacs.tv:8080/live/niptok/220875/1652.ts
-#EXTINF:0,FR: M6
-http://iptv.alphacs.tv:8080/live/niptok/220875/1653.ts
-#EXTINF:0,FR: Nickelodeon
-http://iptv.alphacs.tv:8080/live/niptok/220875/1655.ts
-#EXTINF:0,FR: LCP
-http://iptv.alphacs.tv:8080/live/niptok/220875/1654.ts
-#EXTINF:0,FR: Teva
-http://iptv.alphacs.tv:8080/live/niptok/220875/1656.ts
-#EXTINF:0,FR: I>Tele
-http://iptv.alphacs.tv:8080/live/niptok/220875/1657.ts
-#EXTINF:0,FR: Gulli
-http://iptv.alphacs.tv:8080/live/niptok/220875/1658.ts
-#EXTINF:0,FR: France O
-http://iptv.alphacs.tv:8080/live/niptok/220875/1659.ts
-#EXTINF:0,FR: France 2
-http://iptv.alphacs.tv:8080/live/niptok/220875/1663.ts
-#EXTINF:0,FR: France 3 Sat
-http://iptv.alphacs.tv:8080/live/niptok/220875/1662.ts
-#EXTINF:0,FR: France 4
-http://iptv.alphacs.tv:8080/live/niptok/220875/1661.ts
-#EXTINF:0,FR: France 5
-http://iptv.alphacs.tv:8080/live/niptok/220875/1660.ts
-#EXTINF:0,FR: D8
-http://iptv.alphacs.tv:8080/live/niptok/220875/1664.ts
-#EXTINF:0,FR: Canal
-http://iptv.alphacs.tv:8080/live/niptok/220875/1668.ts
-#EXTINF:0,FR: Chasse and Peche
-http://iptv.alphacs.tv:8080/live/niptok/220875/1666.ts
-#EXTINF:0,FR: Canal   Sport
-http://iptv.alphacs.tv:8080/live/niptok/220875/1667.ts
-#EXTINF:0,FR: EURONEWS
-http://iptv.alphacs.tv:8080/live/niptok/220875/4060.ts
-#EXTINF:0,FR: EUROSPORT 1
-http://iptv.alphacs.tv:8080/live/niptok/220875/4059.ts
-#EXTINF:0,FR: EUROSPORT 2
-http://iptv.alphacs.tv:8080/live/niptok/220875/4087.ts
-#EXTINF:0,FR: BeIn Sport 1 HD
-http://iptv.alphacs.tv:8080/live/niptok/220875/4885.ts
-#EXTINF:0,FR: BeIn Sport 2 HD
-http://iptv.alphacs.tv:8080/live/niptok/220875/4886.ts
-#EXTINF:0,FR: BeIn Sport 3 HD
-http://iptv.alphacs.tv:8080/live/niptok/220875/4887.ts
-#EXTINF:0,FR: BeIn Sports Max 4
-http://iptv.alphacs.tv:8080/live/niptok/220875/1675.ts
-#EXTINF:0,FR: BeIn Sports Max 5
-http://iptv.alphacs.tv:8080/live/niptok/220875/1674.ts
-#EXTINF:0,FR: BeIn Sports Max 6
-http://iptv.alphacs.tv:8080/live/niptok/220875/1673.ts
-#EXTINF:0,FR: BeIn Sports Max 7
-http://iptv.alphacs.tv:8080/live/niptok/220875/1672.ts
-#EXTINF:0,FR: BeIn Sports Max 8
-http://iptv.alphacs.tv:8080/live/niptok/220875/1671.ts
+#EXTINF:-1,XXX: Русская Ночь
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7257.ts
+#EXTINF:-1,XXX: Sirina
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7261.ts
+#EXTINF:-1,XXX: PassionXXX
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/1417.ts
+#EXTINF:-1,XXX: Sexto Senso
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/1415.ts
+#EXTINF:-1,XXX: SCT HQ
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/1414.ts
+#EXTINF:-1,XXX: SCT HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/1413.ts
+#EXTINF:-1,XXX: Redlight HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/1412.ts
+#EXTINF:-1,XXX: Privee TV
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/1411.ts
+#EXTINF:-1,XXX: Platinum TV
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/1410.ts
+#EXTINF:-1,XXX: Pink o TV
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/1409.ts
+#EXTINF:-1,XXX: Hustler HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/1406.ts
+#EXTINF:-1,XXX: Hustler
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/1405.ts
+#EXTINF:-1,XXX: Venus
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/395.ts
+#EXTINF:-1,XXX: Private
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/398.ts
+#EXTINF:-1,XXX: PLAYBOY
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/396.ts
+#EXTINF:-1,XXX: Penthouse
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/393.ts
+#EXTINF:-1,XXX: Boy&Boy
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/399.ts
+#EXTINF:-1,XXX: Frenchlover TV
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/397.ts
+#EXTINF:-1,XXX: Brazzers
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/394.ts
