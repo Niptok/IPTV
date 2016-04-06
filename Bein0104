@@ -1,53 +1,157 @@
 #EXTM3U
-#EXTINF:-1,Bein Sport HD1
-http://5.196.86.93:8000/live/1/1/127.m3u8
-#EXTINF:-1,Bein Sport HD2
-http://5.196.86.93:8000/live/1/1/128.m3u8
-#EXTINF:-1,Bein Sport HD3
-http://5.196.86.93:8000/live/1/1/129.m3u8
-#EXTINF:-1,Bein Sport HD4
-http://5.196.86.93:8000/live/1/1/130.m3u8
-#EXTINF:-1,Bein Sport HD5
-http://5.196.86.93:8000/live/1/1/132.m3u8
-#EXTINF:-1,Bein Sport HD6
-http://5.196.86.93:8000/live/1/1/133.m3u8
-#EXTINF:-1,Bein Sport HD7
-http://5.196.86.93:8000/live/1/1/134.m3u8
-#EXTINF:-1,Bein Sport HD8
-http://5.196.86.93:8000/live/1/1/135.m3u8
-#EXTINF:-1,Bein Sport HD9
-http://5.196.86.93:8000/live/1/1/186.m3u8
-#EXTINF:-1,Bein Sport HD10
-http://5.196.86.93:8000/live/1/1/187.m3u8
-#EXTINF:-1,Bein Sport HD11
-http://5.196.86.93:8000/live/1/1/188.m3u8
-#EXTINF:-1,Bein Sport HD12
-http://5.196.86.93:8000/live/1/1/189.m3u8
-#EXTINF:-1,Bein Sport HD13
-http://5.196.86.93:8000/live/1/1/1694.m3u8
-#EXTINF:-1,Bein Movies HD3
-http://5.196.86.93:8000/live/1/1/2151.m3u8
-#EXTINF:-1,bein Sport SD1
-http://5.196.86.93:8000/live/1/1/1913.m3u8
-#EXTINF:-1,Bein Sport SD2
-http://5.196.86.93:8000/live/1/1/1914.m3u8
-#EXTINF:-1,Bein Sport SD3
-http://5.196.86.93:8000/live/1/1/1915.m3u8
-#EXTINF:-1,Bein Sport SD4
-http://5.196.86.93:8000/live/1/1/1916.m3u8
-#EXTINF:-1,Bein Sport SD5
-http://5.196.86.93:8000/live/1/1/1917.m3u8
-#EXTINF:-1,Bein Sport SD6
-http://5.196.86.93:8000/live/1/1/1918.m3u8
-#EXTINF:-1,Bein Sport SD7
-http://5.196.86.93:8000/live/1/1/1919.m3u8
-#EXTINF:-1,Bein Sport SD8
-http://5.196.86.93:8000/live/1/1/1920.m3u8
-#EXTINF:-1,Bein Sport SD9
-http://5.196.86.93:8000/live/1/1/1921.m3u8
-#EXTINF:-1,Bein Sport SD10
-http://5.196.86.93:8000/live/1/1/1922.m3u8
-#EXTINF:-1,Bein Sport SD11
-http://5.196.86.93:8000/live/1/1/1923.m3u8
-#EXTINF:-1,Bein Sport SD12
-http://5.196.86.93:8000/live/1/1/1924.m3u8
+#EXTINF:-1,AR: OSN YAHALA
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7950.ts
+#EXTINF:-1,AR: OSN Ya Hala Shabab
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7951.ts
+#EXTINF:-1,AR: OSN YA HALA DRAMA
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7952.ts
+#EXTINF:-1,AR: OSN StAR: World
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7936.ts
+#EXTINF:-1,AR: OSN On Demand
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7937.ts
+#EXTINF:-1,AR: OSN Movies stAR: HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7938.ts
+#EXTINF:-1,AR: OSN Movies Kids
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7944.ts
+#EXTINF:-1,AR: OSN Movies First More HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7945.ts
+#EXTINF:-1,AR: OSN Movies Festival
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7946.ts
+#EXTINF:-1,AR: OSN Movies Drama HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7947.ts
+#EXTINF:-1,AR: OSN Movies Box Office 1
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7939.ts
+#EXTINF:-1,AR: OSN Movies Box Office 2
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7940.ts
+#EXTINF:-1,AR: OSN Movie Premiere
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7942.ts
+#EXTINF:-1,AR: OSN MOVIE ACTION
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7955.ts
+#EXTINF:-1,AR: OSN MOVIE ACTION 2
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7956.ts
+#EXTINF:-1,AR: OSN MOVIE
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7954.ts
+#EXTINF:-1,AR: OSN MBC  DRAMA
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7933.ts
+#EXTINF:-1,AR: OSN Hahala HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7941.ts
+#EXTINF:-1,AR: OSN First HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7948.ts
+#EXTINF:-1,AR: OSN Discovery Science
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7949.ts
+#EXTINF:-1,AR: OSN Cinema 1
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7934.ts
+#EXTINF:-1,AR: OSN Cinema 2
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7935.ts
+#EXTINF:-1,AR: Star Cinema
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7929.ts
+#EXTINF:-1,AR: Star Cinema 1
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7930.ts
+#EXTINF:-1,AR: Star Cinema 2
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7931.ts
+#EXTINF:-1,AR: Somaliland National TV
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7896.ts
+#EXTINF:-1,AR: Saudi 24
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7895.ts
+#EXTINF:-1,AR: Sama Dubai
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7893.ts
+#EXTINF:-1,AR: Noor TV
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7886.ts
+#EXTINF:-1,AR: Noor Dubai
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7887.ts
+#EXTINF:-1,AR: MTV Lebanon
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7883.ts
+#EXTINF:-1,AR: Mobahat TV
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7882.ts
+#EXTINF:-1,AR: MBC1
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7589.ts
+#EXTINF:-1,AR: MBC2
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7590.ts
+#EXTINF:-1,AR: MBC3
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7601.ts
+#EXTINF:-1,AR: MBC4
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7591.ts
+#EXTINF:-1,AR: MBC PRO SP1 HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7598.ts
+#EXTINF:-1,AR: MBC PRO SP2 HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7599.ts
+#EXTINF:-1,AR: MBC PRO SP3 HD
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7600.ts
+#EXTINF:-1,AR: MBC Masr 1
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7915.ts
+#EXTINF:-1,AR: MBC Masr 2
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7916.ts
+#EXTINF:-1,AR: MBC MASR2
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7596.ts
+#EXTINF:-1,AR: MBC MAX
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7593.ts
+#EXTINF:-1,AR: MBC masr
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7595.ts
+#EXTINF:-1,AR: MBC Drama
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7597.ts
+#EXTINF:-1,AR: MBC bollywood
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7594.ts
+#EXTINF:-1,AR: MBC Action
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7592.ts
+#EXTINF:-1,AR: MBC 1
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7911.ts
+#EXTINF:-1,AR: MBC 2
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7912.ts
+#EXTINF:-1,AR: MBC 3
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7913.ts
+#EXTINF:-1,AR: MBC 4
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7914.ts
+#EXTINF:-1,AR: LBC Sat
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7879.ts
+#EXTINF:-1,AR: Future TV Int
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7877.ts
+#EXTINF:-1,AR: Fadak TV
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7876.ts
+#EXTINF:-1,AR: Dubai One
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7875.ts
+#EXTINF:-1,AR: Dubai Drama
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7909.ts
+#EXTINF:-1,AR: CBC Drama
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7908.ts
+#EXTINF:-1,AR: Cartoon Network
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7903.ts
+#EXTINF:-1,AR: Cairo Drama
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7907.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7906.ts
+#EXTINF:-1,AR: Belqees TV
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7874.ts
+#EXTINF:-1,AR: Arrabbia
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7872.ts
+#EXTINF:-1,AR: Almayadeen
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7904.ts
+#EXTINF:-1,AR: Al Seha Waljamal
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7870.ts
+#EXTINF:-1,AR: Al Ruqya 2
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7868.ts
+#EXTINF:-1,AR: Al Sahraa 3
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7869.ts
+#EXTINF:-1,AR: Al Resalah
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7867.ts
+#EXTINF:-1,AR: Al Masdar
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7866.ts
+#EXTINF:-1,AR: Al Ma Aly
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7864.ts
+#EXTINF:-1,AR: Al Khalij
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7863.ts
+#EXTINF:-1,AR: Al Jazeera Mubasher
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7862.ts
+#EXTINF:-1,AR: Al Jazeera
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7861.ts
+#EXTINF:-1,AR: Al Aoula Laayoune
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7859.ts
+#EXTINF:-1,AR: Al Aoula Inter
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7858.ts
+#EXTINF:-1,AR: Al Amaken
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7857.ts
+#EXTINF:-1,AR: Al Alam
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7856.ts
+#EXTINF:-1,AR: AD Drama
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7905.ts
+#EXTINF:-1,AR: A TV
+http://iptv.alphacs.tv:8080/live/K4YhuqTtxV/T3GnNRmxPY/7855.ts
