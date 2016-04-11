@@ -1,0 +1,348 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]ZABI ATEF:11/04[/B][/I][/COLOR]
+http://0.1.5.0:1224
+#EXTINF:-1,[COLOR green]--------- TUNISIE TV ---------[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,Tunisie 1
+http://www.t12v.com:8000/live/usa/usa/1.ts
+#EXTINF:-1,Tunisie 2
+http://www.t12v.com:8000/live/usa/usa/2.ts
+#EXTINF:-1,Alhiwar attounsi
+http://www.t12v.com:8000/live/usa/usa/3.ts
+#EXTINF:-1,Nessma
+http://www.t12v.com:8000/live/usa/usa/4.ts
+#EXTINF:-1,Tounesna
+http://www.t12v.com:8000/live/usa/usa/5.ts
+#EXTINF:-1,Aljanoubia
+http://www.t12v.com:8000/live/usa/usa/7.ts
+#EXTINF:-1,Hannibal
+http://www.t12v.com:8000/live/usa/usa/12.ts
+#EXTINF:-1,Attassia
+http://www.t12v.com:8000/live/usa/usa/99.ts
+#EXTINF:-1,First TV
+http://www.t12v.com:8000/live/usa/usa/176.ts
+#EXTINF:-1,M Tunisie
+http://www.t12v.com:8000/live/usa/usa/13.ts
+
+#EXTINF:-1,[COLOR green]--------- KIDS TV ---------[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,Space toon
+http://www.t12v.com:8000/live/usa/usa/98.ts
+#EXTINF:-1,MBC 3
+http://www.t12v.com:8000/live/usa/usa/131.ts
+#EXTINF:-1,Toyour Aljannah
+http://www.t12v.com:8000/live/usa/usa/137.ts
+#EXTINF:-1,Baraaem
+http://www.t12v.com:8000/live/usa/usa/142.ts
+#EXTINF:-1,Ajial
+http://www.t12v.com:8000/live/usa/usa/185.ts
+
+#EXTINF:-1,[COLOR green]--------- France TV ---------[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,TF1
+http://www.t12v.com:8000/live/usa/usa/207.ts
+#EXTINF:-1,M6
+http://www.t12v.com:8000/live/usa/usa/216.ts
+#EXTINF:-1,France 2
+http://www.t12v.com:8000/live/usa/usa/208.ts
+#EXTINF:-1,France 3
+http://www.t12v.com:8000/live/usa/usa/209.ts
+#EXTINF:-1,France 5
+http://www.t12v.com:8000/live/usa/usa/210.ts
+#EXTINF:-1,W9
+http://www.t12v.com:8000/live/usa/usa/224.ts
+#EXTINF:-1,Serie Club HD
+http://www.t12v.com:8000/live/usa/usa/225.ts
+#EXTINF:-1,TMC HD
+http://www.t12v.com:8000/live/usa/usa/226.ts
+#EXTINF:-1,France O
+http://www.t12v.com:8000/live/usa/usa/228.ts
+#EXTINF:-1,D8
+http://www.t12v.com:8000/live/usa/usa/234.ts
+#EXTINF:-1,RTL Tvi
+http://www.t12v.com:8000/live/usa/usa/10.ts
+#EXTINF:-1,Disney Channel
+http://www.t12v.com:8000/live/usa/usa/52.ts
+#EXTINF:-1,Club RTL
+http://www.t12v.com:8000/live/usa/usa/56.ts
+#EXTINF:-1,LA UNE HD
+http://www.t12v.com:8000/live/usa/usa/184.ts
+#EXTINF:-1,LA DEUX
+http://www.t12v.com:8000/live/usa/usa/57.ts
+#EXTINF:-1,Planet+
+http://www.t12v.com:8000/live/usa/usa/67.ts
+#EXTINF:-1,La trois
+http://www.t12v.com:8000/live/usa/usa/73.ts
+#EXTINF:-1,RMC Decouvert
+http://www.t12v.com:8000/live/usa/usa/82.ts
+#EXTINF:-1,SYFY
+http://www.t12v.com:8000/live/usa/usa/95.ts
+#EXTINF:-1,PLUG RTL
+http://www.t12v.com:8000/live/usa/usa/119.ts
+#EXTINF:-1,RTS UN HD
+http://www.t12v.com:8000/live/usa/usa/121.ts
+#EXTINF:-1,RTS DEUX HD
+http://www.t12v.com:8000/live/usa/usa/138.ts
+#EXTINF:-1,Chérie 25
+http://www.t12v.com:8000/live/usa/usa/169.ts
+#EXTINF:-1,6Ter HD
+http://www.t12v.com:8000/live/usa/usa/181.ts
+#EXTINF:-1,Canal j
+http://www.t12v.com:8000/live/usa/usa/198.ts
+#EXTINF:-1,Canal+1
+http://www.t12v.com:8000/live/usa/usa/201.ts
+#EXTINF:-1,Canal+ 2
+http://www.t12v.com:8000/live/usa/usa/202.ts
+#EXTINF:-1,Canal+
+http://www.t12v.com:8000/live/usa/usa/203.ts
+#EXTINF:-1,Canal+ 3
+http://www.t12v.com:8000/live/usa/usa/204.ts
+#EXTINF:-1,Canal+ Decal
+http://www.t12v.com:8000/live/usa/usa/145.ts
+#EXTINF:-1,Paris Premiere
+http://www.t12v.com:8000/live/usa/usa/181.ts
+#EXTINF:-1,Gulli
+http://www.t12v.com:8000/live/usa/usa/212.ts
+#EXTINF:-1,13eme Rue
+http://www.t12v.com:8000/live/usa/usa/214.ts
+#EXTINF:-1,Ushuaia
+http://www.t12v.com:8000/live/usa/usa/223.ts
+#EXTINF:-1,TIJI
+http://www.t12v.com:8000/live/usa/usa/235.ts
+#EXTINF:-1,Disney XD
+http://www.t12v.com:8000/live/usa/usa/236.ts
+#EXTINF:-1,Chain FR 1
+http://www.t12v.com:8000/live/usa/usa/201.ts
+#EXTINF:-1,Chain FR 2
+http://www.t12v.com:8000/live/usa/usa/227.ts
+
+#EXTINF:-1,[COLOR green]--------- France TV2 ---------[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,FR: TF1 HD
+http://cms.cyntel.co:8000/live/walter/walter/279.ts
+#EXTINF:-1,FR: CANAL+
+http://cms.cyntel.co:8000/live/walter/walter/1663.ts
+#EXTINF:-1,FR: FRANCE 2 HD
+http://cms.cyntel.co:8000/live/walter/walter/266.ts
+#EXTINF:-1,FR: FRANCE 3
+http://cms.cyntel.co:8000/live/walter/walter/268.ts
+#EXTINF:-1,FR: FRANCE 4
+http://cms.cyntel.co:8000/live/walter/walter/269.ts
+#EXTINF:-1,FR: FRANCE 5
+http://cms.cyntel.co:8000/live/walter/walter/270.ts
+#EXTINF:-1,FR: D17
+http://cms.cyntel.co:8000/live/walter/walter/267.ts
+#EXTINF:-1,FR: D8
+http://cms.cyntel.co:8000/live/walter/walter/287.ts
+#EXTINF:-1,FR: RTL9 HD
+http://cms.cyntel.co:8000/live/walter/walter/275.ts
+#EXTINF:-1,FR: ARTE HD
+http://cms.cyntel.co:8000/live/walter/walter/274.ts
+#EXTINF:-1,FR: M6
+http://cms.cyntel.co:8000/live/walter/walter/277.ts
+#EXTINF:-1,FR: FRANCE 24
+http://cms.cyntel.co:8000/live/walter/walter/1465.ts
+#EXTINF:-1,FR: FRANCE Ô
+http://cms.cyntel.co:8000/live/walter/walter/290.ts
+#EXTINF:-1,FR: TVA
+http://cms.cyntel.co:8000/live/walter/walter/629.ts
+#EXTINF:-1,FR: 6TER
+http://cms.cyntel.co:8000/live/walter/walter/291.ts
+#EXTINF:-1,FR: BFM
+http://cms.cyntel.co:8000/live/walter/walter/281.ts
+#EXTINF:-1,FR: W9
+http://cms.cyntel.co:8000/live/walter/walter/276.ts
+#EXTINF:-1,FR: Weo
+http://cms.cyntel.co:8000/live/walter/walter/286.ts
+#EXTINF:-1,FR: EURONEWS
+http://cms.cyntel.co:8000/live/walter/walter/1464.ts
+#EXTINF:-1,FR: CANAL+ SERIES HD
+http://cms.cyntel.co:8000/live/walter/walter/1667.ts
+#EXTINF:-1,FR: CANAL+ FAMILY HD
+http://cms.cyntel.co:8000/live/walter/walter/1666.ts
+#EXTINF:-1,FR: CANAL+ CINEMA HD
+http://cms.cyntel.co:8000/live/walter/walter/1665.ts
+#EXTINF:-1,FR: CINE+ PREMIER
+http://cms.cyntel.co:8000/live/walter/walter/2299.ts
+#EXTINF:-1,FR: CANAL+ CINE FAMIZ HD
+http://cms.cyntel.co:8000/live/walter/walter/2300.ts
+#EXTINF:-1,FR: CANAL+ CINE EMOTION HD
+http://cms.cyntel.co:8000/live/walter/walter/1668.ts
+http://iptv-zak.blogspot.com/
+#EXTINF:-1,FR: CANAL+ CINE CLASSIC HD
+http://cms.cyntel.co:8000/live/walter/walter/2196.ts
+#EXTINF:-1,FR: CINE+ FRISSON HD
+http://cms.cyntel.co:8000/live/walter/walter/1669.ts
+#EXTINF:-1,FR: CANAL+ DECALE HD
+http://cms.cyntel.co:8000/live/walter/walter/1664.ts
+#EXTINF:-1,FR: SYFY UNIVERSAL HD
+http://cms.cyntel.co:8000/live/walter/walter/1678.ts
+#EXTINF:-1,FR: PARIS PREMIERE HD
+http://cms.cyntel.co:8000/live/walter/walter/2565.ts
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://cms.cyntel.co:8000/live/walter/walter/1676.ts
+#EXTINF:-1,FR: BeIN SPORT 1 HD
+http://cms.cyntel.co:8000/live/walter/walter/263.ts
+#EXTINF:-1,FR: Bein Sport 2 HD
+http://cms.cyntel.co:8000/live/walter/walter/264.ts
+#EXTINF:-1,FR: CANAL+ SPORT HD
+http://cms.cyntel.co:8000/live/walter/walter/2301.ts
+#EXTINF:-1,FR: EUROSPORT HD
+http://cms.cyntel.co:8000/live/walter/walter/2566.ts
+#EXTINF:-1,FR: Gulli
+http://cms.cyntel.co:8000/live/walter/walter/283.ts
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+http://cms.cyntel.co:8000/live/walter/walter/1671.ts
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://cms.cyntel.co:8000/live/walter/walter/1670.ts
+#EXTINF:-1,FR: ANIMAUX HD
+http://cms.cyntel.co:8000/live/walter/walter/273.ts
+#EXTINF:-1,FR: USHUAIA TV HD
+http://cms.cyntel.co:8000/live/walter/walter/1679.ts
+#EXTINF:-1,FR: NATIONAL GEOGRAPHIC
+http://cms.cyntel.co:8000/live/walter/walter/1675.ts
+#EXTINF:-1,FR: NAT GEO WILD HD
+http://cms.cyntel.co:8000/live/walter/walter/2182.ts
+#EXTINF:-1,FR: DISCOVERY SC
+http://cms.cyntel.co:8000/live/walter/walter/2180.ts
+#EXTINF:-1,FR: ENORME TV
+http://cms.cyntel.co:8000/live/walter/walter/2499.ts
+#EXTINF:-1,FR: M6 MUSIC HITS LIVE
+http://cms.cyntel.co:8000/live/walter/walter/1460.ts
+#EXTINF:-1,FR: NRJ12
+http://cms.cyntel.co:8000/live/walter/walter/1030.ts
+#EXTINF:-1,FR: TV5MONDE
+http://cms.cyntel.co:8000/live/walter/walter/3455.ts
+#EXTINF:-1,FR: TiJi
+http://cms.cyntel.co:8000/live/walter/walter/3334.ts
+#EXTINF:-1,FR: DISCOVERY CHANNEL HD
+http://cms.cyntel.co:8000/live/walter/walter/3331.ts
+#EXTINF:-1,FR: CARTOON NETWORK HD
+http://cms.cyntel.co:8000/live/walter/walter/3336.ts
+#EXTINF:-1,FR: HD1
+http://cms.cyntel.co:8000/live/walter/walter/3290.ts
+#EXTINF:-1,FR: NT1 HD
+http://cms.cyntel.co:8000/live/walter/walter/3003.ts
+#EXTINF:-1,FR: L’ÉQUIPE 21
+http://cms.cyntel.co:8000/live/walter/walter/2886.ts
+#EXTINF:-1,FR: TMC
+http://cms.cyntel.co:8000/live/walter/walter/3325.ts
+#EXTINF:-1,FR: TEVA HD
+http://cms.cyntel.co:8000/live/walter/walter/3324.ts
+#EXTINF:-1,FR: RTC Télé Liège
+http://cms.cyntel.co:8000/live/walter/walter/2889.ts
+#EXTINF:-1,FR: RMC DÉCOUVERTE
+http://cms.cyntel.co:8000/live/walter/walter/2884.ts
+#EXTINF:-1,FR: 13EME RUE HD
+http://cms.cyntel.co:8000/live/walter/walter/2881.ts
+#EXTINF:-1,FR: OCS MAX HD
+http://cms.cyntel.co:8000/live/walter/walter/3266.ts
+#EXTINF:-1,FR: OCS GEANTS HD
+http://cms.cyntel.co:8000/live/walter/walter/3265.ts
+#EXTINF:-1,FR: OCS CHOC HD
+http://cms.cyntel.co:8000/live/walter/walter/3264.ts
+#EXTINF:-1,FR: SERIE CLUB HD
+http://cms.cyntel.co:8000/live/walter/walter/3268.ts
+#EXTINF:-1,FR: DISNEY XD
+http://cms.cyntel.co:8000/live/walter/walter/3257.ts
+#EXTINF:-1,FR: BOOMERANG HD
+http://cms.cyntel.co:8000/live/walter/walter/3256.ts
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://cms.cyntel.co:8000/live/walter/walter/3321.ts
+#EXTINF:-1,FR: MA CHAINE SPORT HD
+http://cms.cyntel.co:8000/live/walter/walter/3322.ts
+
+#EXTINF:-1,[COLOR green]--------- FRANCE SPORT ---------[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,Bein Sport 1 FR
+http://www.t12v.com:8000/live/usa/usa/199.ts
+#EXTINF:-1,Bein Sport 2 FR
+http://www.t12v.com:8000/live/usa/usa/200.ts
+#EXTINF:-1,Bein Sport 3 FR
+http://www.t12v.com:8000/live/usa/usa/594.ts
+#EXTINF:-1,CANAL+ SPORT
+http://www.t12v.com:8000/live/usa/usa/205.ts
+#EXTINF:-1,Bein Sport Max 6
+http://www.t12v.com:8000/live/usa/usa/233.ts
+#EXTINF:-1,Bein Sport Max 7
+http://www.t12v.com:8000/live/usa/usa/232.ts
+#EXTINF:-1,Eurosport 1
+http://www.t12v.com:8000/live/usa/usa/206.ts
+
+#EXTINF:-1,[COLOR green]--------- BEIN SPORT ---------[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,Bein Sport 1
+http://www.t12v.com:8000/live/usa/usa/186.ts
+#EXTINF:-1,Bein Sport 2
+http://www.t12v.com:8000/live/usa/usa/187.ts
+#EXTINF:-1,Bein Sport 3
+http://www.t12v.com:8000/live/usa/usa/188.ts
+#EXTINF:-1,Bein Sport 4
+http://www.t12v.com:8000/live/usa/usa/189.ts
+#EXTINF:-1,Bein Sport 5
+http://www.t12v.com:8000/live/usa/usa/190.ts
+#EXTINF:-1,Bein Sport 6
+http://www.t12v.com:8000/live/usa/usa/191.ts
+#EXTINF:-1,Bein Sport 7
+http://www.t12v.com:8000/live/usa/usa/192.ts
+#EXTINF:-1,Bein Sport 8
+http://www.t12v.com:8000/live/usa/usa/193.ts
+#EXTINF:-1,Bein Sport 9
+http://www.t12v.com:8000/live/usa/usa/194.ts
+#EXTINF:-1,Bein Sport 10
+http://www.t12v.com:8000/live/usa/usa/195.ts
+#EXTINF:-1,Bein Sport 11
+http://www.t12v.com:8000/live/usa/usa/196.ts
+#EXTINF:-1,Bein Sport 12
+http://www.t12v.com:8000/live/usa/usa/197.ts
+#EXTINF:-1,Bein Sport 13
+http://www.t12v.com:8000/live/usa/usa/451.ts
+#EXTINF:-1,Bein Sport 14
+http://www.t12v.com:8000/live/usa/usa/452.ts
+#EXTINF:-1,Bein Sport 15
+http://www.t12v.com:8000/live/usa/usa/453.ts
+#EXTINF:-1,Bein Sport News
+http://www.t12v.com:8000/live/usa/usa/454.ts
+#EXTINF:-1,Bein Sport 3
+http://www.t12v.com:8000/live/usa/usa/126.ts
+#EXTINF:-1,Bein Sport 4
+http://www.t12v.com:8000/live/usa/usa/139.ts
+#EXTINF:-1,Bein Sport 5
+http://www.t12v.com:8000/live/usa/usa/179.ts
+#EXTINF:-1,Bein Sport 8
+http://www.t12v.com:8000/live/usa/usa/161.ts
+#EXTINF:-1,Bein Sport 10
+http://www.t12v.com:8000/live/usa/usa/180.ts
+#EXTINF:-1,Bein Sport 11
+http://www.t12v.com:8000/live/usa/usa/163.ts
+#EXTINF:-1,Bein Sport 12
+http://www.t12v.com:8000/live/usa/usa/173.ts
+#EXTINF:-1,Bein Sport 14
+http://www.t12v.com:8000/live/usa/usa/68.ts
+#EXTINF:-1,AR: BEIN SPORT 1 HD
+http://cms.cyntel.co:8000/live/walter/walter/545.ts
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://cms.cyntel.co:8000/live/walter/walter/1449.ts
+#EXTINF:-1,AR: BEIN SPORT 2 HD
+http://cms.cyntel.co:8000/live/walter/walter/544.ts
+#EXTINF:-1,AR: BEIN SPORT 3 HD
+http://cms.cyntel.co:8000/live/walter/walter/1442.ts
+#EXTINF:-1,AR: BEIN SPORT 4 HD
+http://cms.cyntel.co:8000/live/walter/walter/1443.ts
+#EXTINF:-1,AR: BEIN SPORT 5 HD
+http://cms.cyntel.co:8000/live/walter/walter/1444.ts
+#EXTINF:-1,AR: BEIN SPORT 6 HD
+http://cms.cyntel.co:8000/live/walter/walter/1445.ts
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://cms.cyntel.co:8000/live/walter/walter/1446.ts
+#EXTINF:-1,AR: BEIN SPORT 8 HD
+http://cms.cyntel.co:8000/live/walter/walter/1447.ts
+#EXTINF:-1,AR: BEIN SPORT 9 HD
+http://cms.cyntel.co:8000/live/walter/walter/1448.ts
+
+#EXTINF:-1,[COLOR green]--------- Special ---------[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,XXX: Playboy
+http://cms.cyntel.co:8000/live/walter/walter/101.ts
+#EXTINF:-1,XXX: Русская Ночь
+http://cms.cyntel.co:8000/live/walter/walter/126.ts
