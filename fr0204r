@@ -88,7 +88,6 @@ http://iptvgafsa.ddns.net:8000/live/daniel/daniel/9972.ts
 http://0.8.6.0:1024177
 #EXTINF:-1,AR:Tunisia_Nat1
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/8366.ts
-iptv-zak.blogspot.com
 #EXTINF:-1,AR:Tunisia_Nat2
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/8367.ts
 #EXTINF:-1,AR:ElHiwar_Ettounsi
@@ -107,11 +106,10 @@ http://iptvgafsa.ddns.net:8000/live/daniel/daniel/8373.ts
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/7073.ts
 #EXTINF:-1,AR-AL-JANOUBIA
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/7065.ts
-
-#EXTINF:-1,[COLOR green]--------- ARAB ---------[/COLOR]
-http://0.8.6.0:1024177
 #EXTINF:-1,AR:TELVZA_TV
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/9879.ts
+EXTINF:-1,[COLOR green]--------- ARAB TV ---------[/COLOR]
+http://0.8.6.0:1024177
 #EXTINF:-1,AR:TVA3
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/8376.ts
 #EXTINF:-1,AR:DZEchoroukTV
@@ -708,7 +706,6 @@ http://iptvgafsa.ddns.net:8000/live/daniel/daniel/9301.ts
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/9303.ts
 #EXTINF:-1,FR:ZOUZOU
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/9305.ts
-iptv-zak.blogspot.com
 #EXTINF:-1,FR:iTELE
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/6654.ts
 #EXTINF:-1,FR:ARTE
