@@ -51,3 +51,13 @@ http://iptv.alphacs.tv:8080/live/proatef/pro/1111.ts
 http://iptv.alphacs.tv:8080/live/proatef/pro/1063.ts
 #EXTINF:-1,FR: Canal   Sport
 http://iptv.alphacs.tv:8080/live/proatef/pro/1667.ts
+#EXTINF:-1,FR: W9
+http://iptv.alphacs.tv:8080/live/proatef/pro/1647.ts
+#EXTINF:-1,FR: TMC
+http://iptv.alphacs.tv:8080/live/proatef/pro/1648.ts
+#EXTINF:-1,FR: TF 1
+http://iptv.alphacs.tv:8080/live/proatef/pro/1649.ts
+#EXTINF:-1,FR: NRJ 12
+http://iptv.alphacs.tv:8080/live/proatef/pro/1652.ts
+#EXTINF:-1,FR: M6
+http://iptv.alphacs.tv:8080/live/proatef/pro/1653.ts
