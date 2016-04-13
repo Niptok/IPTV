@@ -166,7 +166,6 @@ http://cms.cyntel.co:8000/live/walter/walter/2299.ts
 http://cms.cyntel.co:8000/live/walter/walter/2300.ts
 #EXTINF:-1,FR: CANAL+ CINE EMOTION HD
 http://cms.cyntel.co:8000/live/walter/walter/1668.ts
-http://iptv-zak.blogspot.com/
 #EXTINF:-1,FR: CANAL+ CINE CLASSIC HD
 http://cms.cyntel.co:8000/live/walter/walter/2196.ts
 #EXTINF:-1,FR: CINE+ FRISSON HD
@@ -249,8 +248,7 @@ http://cms.cyntel.co:8000/live/walter/walter/3256.ts
 http://cms.cyntel.co:8000/live/walter/walter/3321.ts
 #EXTINF:-1,FR: MA CHAINE SPORT HD
 http://cms.cyntel.co:8000/live/walter/walter/3322.ts
-
-#EXTINF:-1,[COLOR green]--------- FRANCE SPORT ---------[/COLOR]
+#EXTINF:-1,[COLOR green]--------- France SPORT------[/COLOR]
 http://0.8.6.0:1024177
 #EXTINF:-1,Bein Sport 1 FR
 http://www.t12v.com:8000/live/usa/usa/199.ts
@@ -266,8 +264,7 @@ http://www.t12v.com:8000/live/usa/usa/233.ts
 http://www.t12v.com:8000/live/usa/usa/232.ts
 #EXTINF:-1,Eurosport 1
 http://www.t12v.com:8000/live/usa/usa/206.ts
-
-#EXTINF:-1,[COLOR green]--------- BEIN SPORT ---------[/COLOR]
+#EXTINF:-1,[COLOR green]--------- BEIN SPORT--------[/COLOR]
 http://0.8.6.0:1024177
 #EXTINF:-1,Bein Sport 1
 http://www.t12v.com:8000/live/usa/usa/186.ts
@@ -337,8 +334,7 @@ http://cms.cyntel.co:8000/live/walter/walter/1446.ts
 http://cms.cyntel.co:8000/live/walter/walter/1447.ts
 #EXTINF:-1,AR: BEIN SPORT 9 HD
 http://cms.cyntel.co:8000/live/walter/walter/1448.ts
-
-#EXTINF:-1,[COLOR green]--------- Special ---------[/COLOR]
+#EXTINF:-1,[COLOR green]--------- SPEC ---------[/COLOR]
 http://0.8.6.0:1024177
 #EXTINF:-1,XXX: Playboy
 http://cms.cyntel.co:8000/live/walter/walter/101.ts
