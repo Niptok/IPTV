@@ -473,8 +473,7 @@ http://iptvgafsa.ddns.net:8000/live/daniel/daniel/7783.ts
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/7782.ts
 #EXTINF:-1,OSN_AbuDhabi_Sports3HD
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/7761.ts
-
-EXTINF:-1,[COLOR green]--------- FranceTV ---------[/COLOR]
+#EXTINF:-1,[COLOR green]--------- France TV --------[/COLOR]
 http://0.8.6.0:1024177
 #EXTINF:-1,BE:LAUNE_HD
 http://iptvgafsa.ddns.net:8000/live/daniel/daniel/9899.ts
