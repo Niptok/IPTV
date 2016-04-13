@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,FR: BeIn Sport 1 HD
+http://iptv.alphacs.tv:8080/live/proatef/pro/4885.ts
+#EXTINF:-1,FR: BeIn Sport 2 HD
+http://iptv.alphacs.tv:8080/live/proatef/pro/4886.ts
+#EXTINF:-1,FR: BeIn Sport 3 HD
+http://iptv.alphacs.tv:8080/live/proatef/pro/4887.ts
+#EXTINF:-1,FR: BeIn Sports Max 4
+http://iptv.alphacs.tv:8080/live/proatef/pro/1675.ts
+#EXTINF:-1,FR: BeIn Sports Max 5
+http://iptv.alphacs.tv:8080/live/proatef/pro/1674.ts
+#EXTINF:-1,FR: BeIn Sports Max 6
+http://iptv.alphacs.tv:8080/live/proatef/pro/1673.ts
+#EXTINF:-1,FR: BeIn Sports Max 7
+http://iptv.alphacs.tv:8080/live/proatef/pro/1672.ts
+#EXTINF:-1,FR: BeIn Sports Max 8
+http://iptv.alphacs.tv:8080/live/proatef/pro/1671.ts
+#EXTINF:-1,SP: Bein Sport HD
+http://iptv.alphacs.tv:8080/live/proatef/pro/5983.ts
+#EXTINF:-1,SP: Bein Sports
+http://iptv.alphacs.tv:8080/live/proatef/pro/587.ts
+#EXTINF:-1,SPORT: BEINSPORTS 12
+http://iptv.alphacs.tv:8080/live/proatef/pro/4385.ts
+#EXTINF:-1,SPORT: BEINSPORTS 11
+http://iptv.alphacs.tv:8080/live/proatef/pro/4339.ts
+#EXTINF:-1,SPORT: BEINSPORTS 10
+http://iptv.alphacs.tv:8080/live/proatef/pro/1072.ts
+#EXTINF:-1,SPORT: BEINSPORTS 9
+http://iptv.alphacs.tv:8080/live/proatef/pro/1071.ts
+#EXTINF:-1,SPORT: BEINSPORTS 8
+http://iptv.alphacs.tv:8080/live/proatef/pro/1070.ts
+#EXTINF:-1,SPORT: BEINSPORTS 7
+http://iptv.alphacs.tv:8080/live/proatef/pro/1069.ts
+#EXTINF:-1,SPORT: BEINSPORTS 6
+http://iptv.alphacs.tv:8080/live/proatef/pro/1068.ts
+#EXTINF:-1,SPORT: BEINSPORTS 5
+http://iptv.alphacs.tv:8080/live/proatef/pro/1067.ts
+#EXTINF:-1,SPORT: BEINSPORTS 4
+http://iptv.alphacs.tv:8080/live/proatef/pro/1066.ts
+#EXTINF:-1,SPORT: BEINSPORTS 3 FR
+http://iptv.alphacs.tv:8080/live/proatef/pro/1109.ts
+#EXTINF:-1,SPORT: BEINSPORTS 3
+http://iptv.alphacs.tv:8080/live/proatef/pro/1065.ts
+#EXTINF:-1,SPORT: BEINSPORTS 2 FR
+http://iptv.alphacs.tv:8080/live/proatef/pro/1110.ts
+#EXTINF:-1,SPORT: BEINSPORTS 2
+http://iptv.alphacs.tv:8080/live/proatef/pro/1064.ts
+#EXTINF:-1,SPORT: BEINSPORTS 1 FR
+http://iptv.alphacs.tv:8080/live/proatef/pro/1111.ts
+#EXTINF:-1,SPORT: BEINSPORTS 1
+http://iptv.alphacs.tv:8080/live/proatef/pro/1063.ts
+#EXTINF:-1,FR: Canal   Sport
+http://iptv.alphacs.tv:8080/live/proatef/pro/1667.ts
