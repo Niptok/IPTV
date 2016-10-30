@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]By ZABI ATEF[/B][/I][/COLOR]
+http://0.1.5.0:1224
+
+#EXTINF:-1,[COLOR green]--- FRANCE TV ---[/COLOR]
+http://0.8.6.0:1024177
+#EXTINF:-1,TF1
+http://opus.cf/allfrtvstrm/tkn/tf11/fc507a8b8382d11b32153a26d51ad2f0d34b6258/i/strike01_1@97257/index_2456k_av-b.m3u8
+#EXTINF:-1,M6
+http://opus.cf/allfrtvstrm/tkn/wilmaadali/fc507a8b8382d11b32153a26d51ad2f0d34b6258/m6hd_1@97421/index_2500_av-p.m3u8?srvid=p100
+
+#EXTINF:-1,W9
+http://opus.cf/allfrtvstrm/tkn/wilmaadali/fc507a8b8382d11b32153a26d51ad2f0d34b6258/w9_1@97344/index_900_av-p.m3u8?srvid=p101
+
+#EXTINF:-1,Numero 23
+http://stream-09.vty.dailymotion.com/39/dm/1/x13p3qi/live.isml/events(live-whatdoesthefoxsay)/live-audio=64000-video=400000.m3u8?e=1458467723&st=wHlcCpzom5HL4oFZeWgL7w#cell=lvt
+#EXTINF:-1,France 2
+http://streaming.racacaxtv.lescigales.org/android/francetv/simulcast/France_2/hls_v1/index.m3u8
+#EXTINF:-1,France 2
+http://opus.cf/allfrtvstrm/tkn/wilmaadali/fc507a8b8382d11b32153a26d51ad2f0d34b6258/france2hd_1@97420/index_2500_av-p.m3u8?srvid=p100
+
+#EXTINF:-1,France 3
+http://streaming.racacaxtv.lescigales.org/android/fr3regions/F3_Bretagne@107869/index_832_av-p.m3u8
+#EXTINF:-1,France 3
+http://streaming.racacaxtv.lescigales.org/android/francetv/simulcast/France_3/hls_v1/index.m3u8
+#EXTINF:-1,France 3
+http://opus.cf/allfrtvstrm/tkn/france21/fc507a8b8382d11b32153a26d51ad2f0d34b6258/simulcast/France_3/hls_v1/France_3-video=1465200-audio_AACL_fra_65600_325=65600.m3u8
+
+#EXTINF:-1,France 4
+http://streaming.racacaxtv.lescigales.org/android/francetv/simulcast/France_4/hls_v1/index.m3u8
+#EXTINF:-1,France 5
+http://streaming.racacaxtv.lescigales.org/android/francetv/simulcast/France_5/hls_v1/index.m3u8
+#EXTINF:-1,France 5
+http://opus.cf/allfrtvstrm/tkn/france21/fc507a8b8382d11b32153a26d51ad2f0d34b6258/simulcast/France_5/hls_v1/France_5-video=1465200-audio_AACL_fra_65600_345=65600.m3u8
+#EXTINF:-1,D8
+http://streaming.racacaxtv.lescigales.org/android/cnlpls/d8-clair-hd-and/and-hd-clair/d8-clair-hd-video=3400000-audio_AACL_fra_96000_127=96000.m3u8
+#EXTINF:-1,D8
+http://opus.cf/allfrtvstrm/tkn/d8d17/fc507a8b8382d11b32153a26d51ad2f0d34b6258/live/hls/d8-clair-hd-and/and-hd-clair/d8-clair-hd-video=3400000-audio_AACL_fra_96000_127=96000.m3u8
+
+#EXTINF:-1,D17
+http://streaming.racacaxtv.lescigales.org/android/cnlpls/d17-clair-hd-and/and-hd-clair/d17-clair-hd-video=3400000-audio_AACL_fra_96000_127=96000.m3u8
+#EXTINF:-1,D17
+http://opus.cf/livercx/7c2b968ae14ad2fc27ac2e32d2c6ac49/d8d17/live/hls/d17-clair-hd-and/and-hd-clair/d17-clair-hd-video=3400000-audio_AACL_fra_96000_127=96000.m3u8
+#EXTINF:-1,CANAL+
+http://opus.cf/allfrtvstrm/tkn/urhd/fc507a8b8382d11b32153a26d51ad2f0d34b6258/FR:Canal-Plus-HD/tracks-v1a1/index.m3u8?token=efb941358062e2a2244208463482ff05fb0b48c3-57a982c771b5d4678a8dd7357d9146f1-1477578401-1477492001
+
+#EXTINF:-1,TMC
+http://opus.cf/allfrtvstrm/tkn/wilmaadali/fc507a8b8382d11b32153a26d51ad2f0d34b6258/tmc_1@97379/index_1300_av-p.m3u8?srvid=p103
+
+#EXTINF:-1,NT1
+http://opus.cf/allfrtvstrm/tkn/wilmaadali/fc507a8b8382d11b32153a26d51ad2f0d34b6258/nt1_1@97528/index_1300_av-p.m3u8?srvid=p108
+
+#EXTINF:-1,NRJ12
+http://opus.cf/allfrtvstrm/tkn/wilmaadali/fc507a8b8382d11b32153a26d51ad2f0d34b6258/nrj12_1@137759/index_1300_av-p.m3u8?srvid=p121
+
+#EXTINF:-1,Gulli
+http://www.viewers.fr/miniProxy.php/http://lagardere-gulli-hls-live-10641.scdn.arkena.com/c3RhcnRfdGltZT0yMDE2MTAyOTAwMDAwMCZlbmRfdGltZT0yMDE2MTAzMTAwMDAwMCZkaWdlc3Q9MzA4MjJlM2U0ZjQzZjkzZGZjNzg5MTdhZTU0ZDFkNWJhM2FjOTJhYw==/gulli.isml/03.m3u8
+
+#EXTINF:-1,HD1
+http://opus.cf/allfrtvstrm/tkn/hd1/bb672b791a9f35b818ca2e5cb02b60acd090082d/i/weblive_1@90467/index_1240_av-b.m3u8
+#EXTINF:-1,6Ter
+
+http://62.65.140.161/session/1e7bdd78-9eac-11e6-952a-005056bc1a52/6cexmz/2/2057/3305000/index.m3u8
+
+#EXTINF:-1,Numero23
+http://62.65.140.161/session/6270a568-9eac-11e6-a583-005056bc49ac/6cexmz/2/2062/3305000/index.m3u8
+
+#EXTINF:-1,RMC Decouvert
+http://62.65.140.159/session/92c98cac-9eac-11e6-8863-005056bc1a52/6cexmz/2/2059/3305000/index.m3u8
+#EXTINF:-1,Numero23
+http://212.195.244.225:80/kac3tr4i5qcohpgiartgddfhwbmgtyeg/0008521/04.m3u8
+
+#EXTINF:-1,Eurosport1
+http://94.254.0.191/stream1.m3u8
+
+#EXTINF:-1,RTS1
+http://62.65.140.161/session/a1db3e06-9ead-11e6-b79f-005056bc1a52/6cexmz/2/2034/3305000/index.m3u8
+
+#EXTINF:-1,RTS2
+http://62.65.140.225/session/d2c6b568-9ead-11e6-a3b0-005056bc06d1/6cexmz/2/2035/3305000/index.m3u8
+
+#EXTINF:-1,TVA
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-b.m3u8
+
+#EXTINF:-1,TEVA
+http://212.195.244.242:80/kac3tr4i5qcohpkiartiu0yiwbmkt2eh/0005755/04.m3u8
+
+#EXTINF:-1,AB1
+http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/chunklist_b1596000.m3u8
+#EXTINF:-1,Action
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1,RTL9
+http://live-trl01.abweb.com/livetrl01/ngrp:rtl9.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1,13eme Rue
+http://forum-racacax.lescigales.org/allfrtvstrm/tkn/urhd/bb672b791a9f35b818ca2e5cb02b60acd090082d/FR:13eme-Rue/tracks-v1a1/index.m3u8?token=32df99ddde688792c1ce341776c1dfadc5ee028d-4ae3e20718c683a969766eff98c17da9-1477925849-1477839449
+
+
+#EXTINF:-1,SERIE-CLUB
+http://forum-racacax.lescigales.org/allfrtvstrm/tkn/urhd/bb672b791a9f35b818ca2e5cb02b60acd090082d/FR:SERIE-CLUB-HD/tracks-v1a1/index.m3u8?token=03a94e74b0e403480746bf72608bb2440228510d-efa37eca5b133cec7abf4c8622f9a4bb-1477926118-1477839718
+
+#EXTINF:-1,Cine Premier
+http://forum-racacax.lescigales.org/allfrtvstrm/tkn/urhd/bb672b791a9f35b818ca2e5cb02b60acd090082d/FR:Cine-Premier-HD/tracks-v1a1/index.m3u8?token=d1abd22c9c3cf7da44b74f4d1e8d943c9bb808a9-52a254b12b478fb999157a4f74fafff7-1477925966-1477839566
+
+#EXTINF:-1,Cine Emotion
+http://forum-racacax.lescigales.org/allfrtvstrm/tkn/urhd/bb672b791a9f35b818ca2e5cb02b60acd090082d/FR:CINE-Emotion-HD/tracks-v1a1/index.m3u8?token=c7b5c4da42b58dada9b7d43272de42dc053e953c-c432e657ebdf3f9daa15dc1690b069d9-1477926053-1477839653
+
+#EXTINF:-1,TCM-cinema
+http://forum-racacax.lescigales.org/allfrtvstrm/tkn/urhd/bb672b791a9f35b818ca2e5cb02b60acd090082d/FR:TCM-cinema/tracks-v1a1/index.m3u8?token=c836b4fef944cee15c3b30718c698e94ab681bcc-9f48095d8e488733200c822cbfaa090e-1477926197-1477839797
+
+#EXTINF:-1,Canal-Plus-Serie
+http://forum-racacax.lescigales.org/allfrtvstrm/tkn/urhd/bb672b791a9f35b818ca2e5cb02b60acd090082d/FR:Canal-Plus-Serie-HD/tracks-v1a1/index.m3u8?token=ef289c34cc67950a3677f5b20f2155a89c6e7801-36f62866e32069d812f68f0393f20b6f-1477926272-1477839872
+
+#EXTINF:-1,Ocs-Max
+http://forum-racacax.lescigales.org/allfrtvstrm/tkn/urhd/bb672b791a9f35b818ca2e5cb02b60acd090082d/FR:Ocs-Max-HD/tracks-v1a1/index.m3u8?token=ebe65eeac79bb4afbb7ceabd3178fbcbbaf33996-54bd88c957e57d5a778d060c874de88f-1477926322-1477839922
+
+#EXTINF:-1,OCS-Choc
+http://forum-racacax.lescigales.org/allfrtvstrm/tkn/urhd/bb672b791a9f35b818ca2e5cb02b60acd090082d/FR:OCS-Choc-HD/tracks-v1a1/index.m3u8?token=eb9cf6bd20cdd71b150b2d963e7f719c4bf25de2-61241ee82589d2a7a692d6e3e9bbb408-1477926390-1477839990
+
+#EXTINF:-1,Ocs-Geants
+http://forum-racacax.lescigales.org/allfrtvstrm/tkn/urhd/bb672b791a9f35b818ca2e5cb02b60acd090082d/FR:Ocs-Geants-HD/tracks-v1a1/index.m3u8?token=28544bc8902a06935b93e78e6fe91a7be7327d81-24c9b27f4002d6d081d8993168e6ea81-1477926453-1477840053
+
+#EXTINF:-1,Ocs-City
+http://forum-racacax.lescigales.org/allfrtvstrm/tkn/urhd/bb672b791a9f35b818ca2e5cb02b60acd090082d/FR:Ocs-City-HD/tracks-v1a1/index.m3u8?token=27d92a80a73902e5e5c2d9ea1bd3089c89604d2a-941041cbe300b96d18bf389a20953797-1477926502-1477840102
+
+#EXTINF:-1,BEIN 1 Ar
+http://149.202.207.8:8080/KuRtllyAmbr00wsbhensfn-1/Strm/index.m3u8
+#EXTINF:-1,BEIN 1 Fr
+
+http://94.254.0.191/stream4.m3u8
+
+#EXTINF:-1,BEIN 2 Fr
+http://149.202.207.8:8080/KuRtllyAmbr00wsbhensfn-2/Strm/index.m3u8
+
+#EXTINF:-1,BEIN 3 Fr
+http://149.202.207.8:8080/KuRtllyAmbr00wsbhensfn-3/Strm/index.m3u8
