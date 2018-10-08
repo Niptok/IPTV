@@ -110,7 +110,7 @@ http://178.132.6.166:8000/live/6m0502cris/Rosm9x2xKK/36177.ts?token=TRZRB0QKFwoX
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/fr/CANALPLUS.png" tvg-id="CANALplus.fr", CANAL+
 http://178.132.6.166:8000/live/6m0502cris/Rosm9x2xKK/32610.ts?token=TRZRB0QKFwoXXgUHBFMHDgMFWg8LCABRAwMLXwcGUFQHUFtfBQEEAwVEGRJARRNcVQk8XlYSCgEAAQ1fGxFEQ1NGZg9TQA8SBF8NBwcTTRtADQ5SEAoBBwQCAVIBBwYCGhZJD1NADxIEUAIHABNNG1EcF1JAXlFeaVRcEF5QVBIMWkwKW04XX1s5UVVeUA9dFl5BBhAcEltFQBtcFXJleRYZGSdQB1tTUEZhRV1YElBRCg1SEnleRlNCVwNDER0SVF1NFFYWUBIPCEBcXx1DWlsRDUNASRIIFGR3RBsRVEhCUVcVXg1bEg9EQUMRHUNQRzsRUkFEQldXXVwUFQkTABQYGwtWGmpTWghbVVBFCFZaF0ENEAESHhRdVgheR15CaURQAhVYFwEDUQMDEUw=
 
-#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/fr/CANALPLUSFAMILY.png" tvg-id="CanalPlusFamily.fr", CANAL+ FAMILY
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/fr/CANALPLUSFAMILY.png" tvg-id="CANALplusFAMILY.fr", CANAL+ FAMILY
 http://178.132.6.166:8000/live/6m0502cris/Rosm9x2xKK/32600.ts?token=TRZRB0QKFwoXXgUHBFMHDgMFWg8LCABRAwMLXwcGUFQHUFtfBQEEAwVEGRJARRNcVQk8XlYSCgEAAQ1fGxFEQ1NGZg9TQA8SBF8NBwcTTRtADQ5SEAoBBwQCAVIBBwYCGhZJD1NADxIEUAIHABNNG1EcF1JAXlFeaVRcEF5QVBIMWkwKW04XX1s5UVVeUA9dFl5BBhAcEltFQBtcFXJleRYZGSdQB1tTUEZhRV1YElBRCg1SEnleRlNCVwNDER0SVF1NFFYWUBIPCEBcXx1DWlsRDUNASRIIFGR3RBsRVEhCUVcVXg1bEg9EQUMRHUNQRzsRUkFEQldXXVwUFQkTABQYGwtWGmpTWghbVVBFCFZaF0ENEAESHhRdVgheR15CaURQAhVYFwEDUQMDEUw=
 
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/fr/CANALPLUSCINEMA.png" tvg-id="CANALplusCINEMA.fr", CANAL+ CINEMA
@@ -196,7 +196,7 @@ http://178.132.6.166:8000/live/6m0502cris/Rosm9x2xKK/32618.ts?token=TRZRB0QKFwoX
 #EXTINF:-1 tvg-logo="https://epg4you.com/logos/disneyxdhd.png" tvg-id="DisneyXD",Disney XD
 http://144.217.253.140/Disneyxd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://p0.storage.canalblog.com/05/84/1232101/103857117_o.png" tvg-id="DisneyCinema.fr",Disney Cinema
+#EXTINF:-1 tvg-logo="https://p0.storage.canalblog.com/05/84/1232101/103857117_o.png" tvg-id="DisnCineHD",Disney Cinema
 http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" tvg-id="PIWI.fr",PIWI
