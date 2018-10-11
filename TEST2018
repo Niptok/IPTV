@@ -252,10 +252,10 @@ http://178.132.6.166:8000/live/6m0502cris/Rosm9x2xKK/35348.ts?token=TRZRB0QKFwoX
 #EXTINF:-1 tvg-logo="http://www.dubaichronicle.com/wp-content/uploads/2010/03/majid-logo.jpg" tvg-id="MajidKids.ae",MAJID 
 http://adtv.ercdn.net/adsport7/adsport7_480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://marcosdavidh.files.wordpress.com/2013/04/tom-y-jerry-logo.png" tvg-id="",Tom et Jerrey 
+#EXTINF:-1 tvg-logo="https://marcosdavidh.files.wordpress.com/2013/04/tom-y-jerry-logo.png" tvg-id="TometJerry",Tom et Jerrey 
 http://opus.cf/allfrtvstrm/tkn/tetj/i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/82956/clearart/oggy-and-the-cockroaches-4f9ad0869938c.png" tvg-id="",Oggy et le Cafards 
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/82956/clearart/oggy-and-the-cockroaches-4f9ad0869938c.png" tvg-id="Oggy",Oggy et le Cafards 
 http://opus.cf/allfrtvstrm/tkn/oggyn/i/index.m3u8
 
 
@@ -266,7 +266,7 @@ http://178.132.6.166:8000/live/6m0502cris/Rosm9x2xKK/32560.ts?token=TRZRB0QKFwoX
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/National_Geographic_Abu_Dhabi.svg/revision/latest/scale-to-width-down/640?cb=20170701154310" tvg-id="" ,AD National Geo HD
 http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/fr/USHUAIA.png" tvg-id="" ,USHUAIA
+#EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/fr/USHUAIA.png" tvg-id="Ushuaia" ,USHUAIA
 http://178.132.6.166:8000/live/6m0502cris/Rosm9x2xKK/36169.ts?token=TRZRB0QKFwoXXgUHBFMHDgMFWg8LCABRAwMLXwcGUFQHUFtfBQEEAwVEGRJARRNcVQk8XlYSCgEAAQ1fGxFEQ1NGZg9TQA8SBF8NBwcTTRtADQ5SEAoBBwQCAVIBBwYCGhZJD1NADxIEUAIHABNNG1EcF1JAXlFeaVRcEF5QVBIMWkwKW04XX1s5UVVeUA9dFl5BBhAcEltFQBtcFXJleRYZGSdQB1tTUEZhRV1YElBRCg1SEnleRlNCVwNDER0SVF1NFFYWUBIPCEBcXx1DWlsRDUNASRIIFGR3RBsRVEhCUVcVXg1bEg9EQUMRHUNQRzsRUkFEQldXXVwUFQkTABQYGwtWGmpTWghbVVBFCFZaF0ENEAESHhRdVgheR15CaURQAhVYFwEDUQMDEUw=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" tvg-id="beINSPORTS1", BEIN 1 FR
