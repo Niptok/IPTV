@@ -258,6 +258,8 @@ http://opus.cf/allfrtvstrm/tkn/tetj/i/index.m3u8
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/82956/clearart/oggy-and-the-cockroaches-4f9ad0869938c.png" tvg-id="Oggy",Oggy et le Cafards 
 http://opus.cf/allfrtvstrm/tkn/oggyn/i/index.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-id="",REC TV
+http://stream.telemax.pw/hlstv23.m3u8
 
 #EXTINF:-1 tvg-logo="https://rp-live.orange.fr/otv_logos/logo_webtv_livetv_Animaux.png" tvg-id="ANIMAUX",ANIMAUX
 http://178.132.6.166:8000/live/6m0502cris/Rosm9x2xKK/32560.ts?token=TRZRB0QKFwoXUwYBAVJYDQxcWlEBVAdWAQhfVAMKBwcEDVoEB1sMU1NEGRJARRNcVQk8XlYSCgEAAQFXGxFEQ1NGZg9TQA8SBF8NBwcTTRtADQ5SEAoBBwQEAVUAAwAIGhZJD1NADxIEUQYBBxNNG1EcF1JAXlFeaVRcEF5QVBIMWkwKW04XX1s5UVVeUA9dFl5BBhAcEltFQBtcFXJleRYZGSdQB1tTUEZhRV1YElBRCg1SEnleRlNCVwNDER0SVF1NFFYWUBIPRAcHAgVDFRYHDEJcREJLFAobMnkRHRJTTE0DWRFcX1tEDxJHQkMVFg0QaEBVQ0ZEVVgLUkETChQEG0oVD1RIagVaXl1UAk1dCw1EEAoSAxQcGwtYXVhEWUZmFl4GFwoXVwIDAgFDRA==
