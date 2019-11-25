@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1,TF1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/26.ts
+#EXTINF:-1,[FR] MANGAS
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/33.ts
+#EXTINF:-1,RMC DECOUVERTE FHD
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/27.ts
+#EXTINF:-1,PLANETE  CI
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/28.ts
+#EXTINF:-1,France2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/29.ts
+#EXTINF:-1,FR: W9
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/25.ts
+#EXTINF:-1,FR: RMC Sport 4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/24.ts
+#EXTINF:-1,FR: RMC Sport 3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/23.ts
+#EXTINF:-1,FR: RMC Sport 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/22.ts
+#EXTINF:-1,FR: RMC Sport 1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/21.ts
+#EXTINF:-1,FR: NICKLODEON JR
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/20.ts
+#EXTINF:-1,FR: NICKLODEON
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/19.ts
+#EXTINF:-1,FR: National Geographic Wild
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/18.ts
+#EXTINF:-1,FR: M6
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/17.ts
+#EXTINF:-1,FR: Disney XD HD
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/16.ts
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/15.ts
+#EXTINF:-1,FR: CARTOON NETWORK HD
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/14.ts
+#EXTINF:-1,FR: CANALPLAY 5
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/13.ts
+#EXTINF:-1,FR: CANALPLAY 4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/12.ts
+#EXTINF:-1,FR: CANALPLAY 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/10.ts
+#EXTINF:-1,FR: CANALPLAY 1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/9.ts
+#EXTINF:-1,FR: CANAL PLAY 3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/11.ts
+#EXTINF:-1,FR: CANAL J HD
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/8.ts
+#EXTINF:-1,FR: CANAL  SERIES
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/7.ts
+#EXTINF:-1,FR: CANAL  FAMILY
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/6.ts
+#EXTINF:-1,FR: CANAL  DECALE
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/5.ts
+#EXTINF:-1,FR: CANAL  CINEMA HD
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/4.ts
+#EXTINF:-1,FR: CANAL
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/3.ts
+#EXTINF:-1,FR: BOOMERANG-HD
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/2.ts
+#EXTINF:-1,FR: ACTION HD
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/1.ts
+#EXTINF:-1,CINE PREMIER
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/38.ts
+#EXTINF:-1,Cine Emotion
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/37.ts
+#EXTINF:-1,CARTOON NETWORK FHD
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/31.ts
+#EXTINF:-1,Canal Sport
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/30.ts
+#EXTINF:-1,Bein FR1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/36.ts
+#EXTINF:-1,Bein FR 3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/35.ts
+#EXTINF:-1,Bein FR 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/34.ts
+#EXTINF:-1,ANIMAUX HD
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://frryacineuuk.ddns.net:8000/live/yacineff00202/yacineff00202/32.ts
+#EXTINF:-1,setanta sport 1
+#EXTVLCOPT:http-user-agent=aliwix.tv.com/1.0
+http://ott-cdn.ucom.am:80/s81/03.m3u8
+#EXTINF:-1,setanta sport 1
+#EXTVLCOPT:http-user-agent=aliwix.tv.com/1.0
+http://ott-cdn.ucom.am:80/s81/04.m3u8
